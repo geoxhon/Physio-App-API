@@ -1,0 +1,9 @@
+{
+  "require": {
+    "slim/slim": "^4.0",
+    "slim/psr7": "^1.6",
+    "davidepastore/slim-validation": "^4.0",
+    "justinrainbow/json-schema": "^5.2",
+    "prezto/rate-limit": "^0.3.0"
+  }
+}
